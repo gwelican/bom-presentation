@@ -10,13 +10,14 @@ Benefits
 * Applying best practices: Reducing n+1 libary into a single library with best practices.
 * Addressing cross cutting concerns: security, logging, auditing, configuration and monitoring
 * Reducing learning curve: encoruages adoption of common, compatible frameworks and shared components. 
+@ulend
 
 ---
 Why is this needed?
 ### Current situation
 
 Common issues in our projects:
-
+@ul
 * Out-of-control: No clear process on how-to/which libraries/which verion to use.
 * N+1 library: One problem can be solved by multiple libraries, no standardization among projects.
 * Reinventing the wheel: reimplementing features that already exist in frameworks
@@ -24,7 +25,7 @@ Common issues in our projects:
 * Heterogeneous development practices: different projects follow different test/deployment strategies
 * Vulnerability tracking: Lack of CVE(Common Vulnerability and Exposures) tracking
 * Old versions: Tendency to fall behind on versions
-
+@ulend
 ---
 ### Out-of-control:
 
