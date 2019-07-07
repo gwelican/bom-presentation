@@ -1,12 +1,22 @@
-# Bill Of Material aka BOM
+# BOM
+AKA Bill Of Material
 
 ---
 ### What is it?
-It is a tool to unify/standardize libarires used accross multiple projects.
 
-* Standardization: to make the software architecture more readable, by unifying technologies and standards, compliant with industry standards for better interoperability.
+* Standardization: to make the software architecture more readable, by unifying technologies and standards, 
+compliant with industry standards for better interoperability.
+
+---
+### What is it?
 * Applying best practices: Reducing n+1 libary into a single library with best practices.
+
+---
+### What is it?
 * Addressing cross cutting concerns: security, logging, auditing, configuration and monitoring
+
+---
+### What is it?
 * Reducing learning curve: encoruages adoption of common, compatible frameworks and shared components. 
 
 ---
