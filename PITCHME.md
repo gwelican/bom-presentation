@@ -13,8 +13,8 @@ Benefits
 @ulend
 
 ---
-Why is this needed?
-### Current situation
+Current situation
+===
 
 Common issues in our projects:
 @ul
