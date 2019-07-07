@@ -1,0 +1,7 @@
+layout : center-right
+
+theme: night
+transition: fade
+slide-number: true
+
+published: false
